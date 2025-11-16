@@ -11,7 +11,7 @@ This project analyzes Adidas sales data using **Power BI** to provide insights i
 
 ### 1. Sales Page
 
-![Sales Overview](dashboard/Sales overview.png)
+![Sales Overview](dashboard/Salesoverview.png)
 
 
 **Key KPIs:**
@@ -33,7 +33,7 @@ This project analyzes Adidas sales data using **Power BI** to provide insights i
 
 ### 2. Product Analysis Page
 
-![Product Analysis](dashboard/Product analysis.png)
+![Product Analysis](dashboard/Productanalysis.png)
 
 
 **Key KPIs:**
@@ -48,7 +48,7 @@ This project analyzes Adidas sales data using **Power BI** to provide insights i
 
 ### 3. Trend Analysis Page
 
-![Trend Analysis](dashboard/Trend analysis.png)
+![Trend Analysis](dashboard/Trendanalysis.png)
 **Key Insights:**
 - Sales vs Profit, Sales vs Units Sold, Profit vs Avg Profit Margin  
 - Highest profit and sales recorded in **July**  
