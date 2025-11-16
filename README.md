@@ -1,5 +1,8 @@
 # Adidas Sales Analysis Project
 
+
+![Front Page](fontpage.png)
+
 ## Project Overview
 This project analyzes Adidas sales data using **Power BI** to provide insights into sales performance, product trends, and regional performance. The dashboards are fully interactive with **slicers and KPI cards**.
 
