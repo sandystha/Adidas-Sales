@@ -49,7 +49,7 @@ This project analyzes Adidas sales data using **Power BI** to provide insights i
 
 ### 3. Trend Analysis Page
 
-![Trend Analysis](dashboard/Trendanalysis.png)
+![Trend Analysis](Dashboard/Trendanalysis.png)
 **Key Insights:**
 - Sales vs Profit, Sales vs Units Sold, Profit vs Avg Profit Margin  
 - Highest profit and sales recorded in **July**  
